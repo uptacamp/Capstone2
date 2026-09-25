@@ -1,0 +1,94 @@
+                  MUTUAL NON-DISCLOSURE AGREEMENT
+                   between Northbridge Analytics, Inc. and Meridian Sourcing Group, Inc.
+
+
+1. Purpose
+Northbridge Analytics, Inc. (“Northbridge”) and Meridian Sourcing Group, Inc. (“Meridian,” and together
+with Northbridge, the “Parties”) wish to explore a potential business relationship involving supply chain
+data integration (the “Purpose”), during the course of which each Party may disclose certain
+confidential and proprietary information to the other.
+
+2. Definition of Confidential Information
+“Confidential Information” means any non-public technical, business, or financial information disclosed
+by one Party (the “Disclosing Party”) to the other (the “Receiving Party”), whether in written, oral,
+electronic, or other form, that is designated as confidential at the time of disclosure or that a reasonable
+person would understand to be confidential given its nature and the circumstances of disclosure.
+Information disclosed orally shall be identified as confidential at the time of disclosure and, if requested,
+summarized in a written notice sent to the Receiving Party within thirty (30) days.
+
+Confidential Information does not include information that: (a) is or becomes publicly available through
+no fault of the Receiving Party; (b) was rightfully known to the Receiving Party prior to disclosure; (c) is
+rightfully received from a third party without duty of confidentiality; or (d) is independently developed by
+the Receiving Party without use of or reference to the Disclosing Party's Confidential Information.
+
+3. Obligations of Receiving Party
+Each Party, as Receiving Party, shall: (a) use the other Party's Confidential Information solely in
+connection with the Purpose; (b) protect it using at least the same degree of care it uses to protect its
+own confidential information of similar importance, and in no event less than reasonable care; and (c)
+limit access to employees and advisors with a legitimate need to know who are bound by confidentiality
+obligations at least as protective as those in this Agreement. These obligations apply equally and
+reciprocally to both Parties.
+
+4. No License; No Assignment of Intellectual Property
+Nothing in this Agreement grants either Party any license or ownership interest in the other Party's
+Confidential Information, intellectual property, or any feedback provided in connection with the Purpose.
+All such rights remain exclusively with the Disclosing Party unless otherwise agreed in a separate,
+signed written agreement.
+
+5. Term and Survival
+This Agreement is effective for two (2) years from the Effective Date. Confidentiality obligations with
+respect to Confidential Information disclosed during that period shall survive for three (3) years
+following disclosure, except that obligations with respect to information constituting a trade secret under
+applicable law shall survive for so long as such information remains a trade secret.
+
+6. Compelled Disclosure
+A Receiving Party may disclose Confidential Information to the extent required by law, regulation, or
+valid legal process, provided it gives the Disclosing Party prompt written notice (where legally
+permitted) and reasonable cooperation should the Disclosing Party seek a protective order.
+
+7. Non-Solicitation
+During the Term and for twelve (12) months thereafter, neither Party shall directly solicit for hire any
+employee of the other Party who was directly staffed on activities related to the Purpose, provided that
+general solicitations not targeted at such individuals shall not be a breach of this Section.
+
+8. Remedies
+Each Party acknowledges that unauthorized use or disclosure of Confidential Information may cause
+irreparable harm for which monetary damages would be an inadequate remedy, and accordingly, either
+Party shall be entitled to seek injunctive relief in addition to any other remedies available at law or in
+equity, without prejudice to either Party's right to require a bond where permitted by applicable
+procedural rules.
+
+9. Assignment
+Neither Party may assign this Agreement without the prior written consent of the other Party, except
+that either Party may assign this Agreement without consent to a successor in connection with a
+merger, acquisition, or sale of substantially all of its assets, provided the assignee agrees in writing to
+be bound by this Agreement.
+
+10. Governing Law and Venue
+This Agreement shall be governed by the laws of the State of Delaware, without regard to its
+conflict-of-laws principles, and the Parties consent to the exclusive jurisdiction of the state and federal
+courts located in Delaware for any dispute arising under this Agreement.
+
+11. General Provisions
+Neither Party shall issue any press release or public statement referencing the other Party or the
+existence of this Agreement without the other Party's prior written consent. This Agreement constitutes
+the entire agreement between the Parties regarding its subject matter and may be amended only by a
+written instrument signed by both Parties. This Agreement may be executed in counterparts, each of
+which shall be deemed an original.
+
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date first
+written above.
+
+
+
+ NORTHBRIDGE ANALYTICS, INC.                          MERIDIAN SOURCING GROUP, INC.
+
+ By: _______________________________                  By: _______________________________
+
+ Name: _____________________________                  Name: _____________________________
+
+ Title: ______________________________                Title: ______________________________
+Date: ______________________________   Date: ______________________________
+

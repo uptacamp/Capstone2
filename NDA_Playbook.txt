@@ -1,0 +1,228 @@
+NDA PLAYBOOK
+
+Guidelines for Reviewing and Signing Third-Party Paper Non-Disclosure
+Agreements
+
+Sample Template — For Illustrative Purposes Only | Version 1.0
+
+1. Purpose & Scope
+
+This playbook governs how employees and Legal reviewers evaluate a
+Non-Disclosure Agreement (NDA) drafted on a counterparty's
+(“third-party”) template, rather than our own standard form. It applies
+to mutual and one-way NDAs entered into for business discussions, vendor
+evaluations, RFPs, M&A diligence, and similar purposes.
+
+The default position is to use our own NDA template. Third-party paper
+should only be accepted where our template is rejected by the
+counterparty and the terms below are met.
+
+2. General Principles
+
+-   Template-first: Always attempt to lead with our own template first;
+    only fall back to third-party paper when necessary to keep the
+    business relationship moving.
+
+-   Match the disclosure direction: Confirm whether disclosure will flow
+    one-way or both ways. A one-way NDA where we are the only discloser
+    needs stricter protections than a mutual NDA.
+
+-   Track everything: Every NDA reviewed under this playbook must be
+    logged in the contract management system with counterparty name,
+    effective date, term, and reviewer.
+
+-   Escalate on doubt: This playbook does not override specific
+    instructions from Legal on a given deal; when in doubt, escalate
+    rather than guess.
+
+3. Term Classification (Green / Yellow / Red)
+
+Every clause in a third-party NDA should be classified using the
+traffic-light system below before it is routed for approval.
+
+  -----------------------------------------------------------------------
+  Flag          Meaning                         Who Can Sign
+  ------------- ------------------------------- -------------------------
+  Green         Standard market terms;          Business owner or
+                consistent with our own         requester, no Legal
+                template.                       review required.
+
+  Yellow        Deviates from our template but  Legal review required;
+                has an acceptable fallback      may be negotiated using
+                position.                       fallback language.
+
+  Red           Unacceptable as written; must   Legal/senior counsel
+                be struck, replaced, or         approval required; may
+                escalated.                      require counterparty
+                                                redline.
+  -----------------------------------------------------------------------
+
+4. Rules for Acceptable Terms (Green Flags)
+
+Rule 1: Confidentiality term of 2–3 years post-termination, or 3–5 years
+for trade secrets.
+
+  Matches common market practice and our own template; no special
+  approval needed.
+
+Rule 2: Standard carve-outs for information that is public,
+independently developed, rightfully known before disclosure, or
+rightfully received from a third party.
+
+  These are baseline exclusions found in essentially every enforceable
+  NDA.
+
+Rule 3: Mutual obligations that are symmetric — both parties owe the
+same duties regardless of who discloses more.
+
+  Symmetry avoids one-sided risk and rarely needs negotiation.
+
+Rule 4: Governing law and venue in a neutral, well-established
+commercial jurisdiction (e.g., Delaware, New York, England & Wales).
+
+  Predictable forums reduce litigation risk and cost if a dispute
+  arises.
+
+Rule 5: A standard “residuals” clause is absent, or if present, limited
+to unaided memory of general skills/knowledge.
+
+  Aligns with our own position and avoids diluting protection over
+  disclosed materials.
+
+5. Rules for Terms Requiring Negotiation (Yellow Flags)
+
+Rule 6: Term is longer than 5 years but not perpetual, or automatically
+renews without notice.
+
+  Fallback: negotiate down to 3–5 years, or add a right to terminate on
+  30 days' notice.
+
+Rule 7: Non-solicitation or non-compete language bundled into the NDA.
+
+  Fallback: strike entirely, or narrow to solicitation of employees
+  directly staffed on the engagement for 12 months.
+
+Rule 8: Broad, one-sided indemnification for breach of confidentiality
+obligations.
+
+  Fallback: make indemnification mutual, or cap at direct damages
+  arising from a party's own breach.
+
+Rule 9: Assignment permitted freely by counterparty but restricted for
+us, or silent on assignment in an M&A context.
+
+  Fallback: make assignment rights symmetric, with consent required
+  except for assignment to a successor via merger or sale of
+  substantially all assets.
+
+Rule 10: Definition of “Confidential Information” omits a marking or
+reasonable-identification requirement for orally disclosed information.
+
+  Fallback: add a requirement that oral disclosures be identified as
+  confidential at the time, or summarized in writing within 15–30 days.
+
+Rule 11: Injunctive relief clause that also waives our right to require
+a bond.
+
+  Fallback: keep injunctive relief available but remove the bond waiver,
+  or make it mutual.
+
+6. Rules for Unacceptable Terms (Red Flags — Must Reject or Escalate)
+
+Rule 12: Perpetual confidentiality obligations with no defined end date.
+
+  Creates open-ended liability that cannot be reasonably tracked or
+  insured against; must be time-bound.
+
+Rule 13: Automatic, irrevocable license or assignment of intellectual
+property, feedback, or improvements disclosed under the NDA.
+
+  An NDA should protect information, not transfer ownership of IP; this
+  belongs in a separate, deliberately negotiated agreement, if at all.
+
+Rule 14: Exclusivity or standstill provisions restricting who we may
+talk to, invest in, or compete with.
+
+  These are business-strategic commitments that go far beyond
+  confidentiality and require executive/board-level approval, not
+  routine NDA review.
+
+Rule 15: One-sided limitation of liability that fully exempts the
+counterparty while leaving us fully exposed.
+
+  Creates asymmetric risk; liability treatment should be mutual or
+  removed from the NDA entirely.
+
+Rule 16: Governing law in a jurisdiction with unpredictable enforcement
+of confidentiality or IP rights, or mandatory arbitration seated there.
+
+  Increases enforcement risk disproportionately; requires Senior Counsel
+  sign-off if it cannot be renegotiated.
+
+Rule 17: Publicity or announcement rights permitting the counterparty to
+name us or reference the relationship without our consent.
+
+  Unauthorized public association can create reputational, securities,
+  or customer-relations risk.
+
+Rule 18: Audit rights allowing the counterparty to inspect our systems,
+facilities, or records without reasonable notice, scope limits, or
+confidentiality protections of their own.
+
+  Unbounded audit rights create security and operational exposure
+  disproportionate to a confidentiality agreement.
+
+Rule 19: Automatic “deemed acceptance” clauses that bind us to
+amendments the counterparty posts or sends without our signature.
+
+  Removes our ability to consent to material changes in terms over time.
+
+7. Approval & Escalation Matrix
+
+Use the table below to route a third-party NDA once it has been
+classified under Section 3.
+
+  ------------------------------------------------------------------------
+  Scenario                     Reviewer              Approver
+  ---------------------------- --------------------- ---------------------
+  Mutual NDA, no Red flags,    Contract Manager /    Contract Manager
+  minor Yellow deviations      Paralegal             
+
+  One-way NDA (company as      In-house Counsel      In-house Counsel
+  discloser only)                                    
+
+  Any Red flag present (see    In-house Counsel      Senior Counsel / GC
+  Section 4)                                         designee
+
+  Counterparty is a government In-house Counsel      Senior Counsel / GC
+  entity or regulated                                designee
+  financial institution                              
+
+  Term exceeds 5 years or is   In-house Counsel      Senior Counsel / GC
+  perpetual                                          designee
+  ------------------------------------------------------------------------
+
+8. Signature Authority
+
+-   Business owners may sign NDAs classified entirely Green under
+    Section 4, provided the counterparty and purpose are properly
+    logged.
+
+-   Contract Managers may sign NDAs with only Yellow deviations that
+    have been resolved using the approved fallback language in Section
+    5.
+
+-   In-house Counsel or a Senior Counsel/GC designee must sign, or
+    expressly approve signature of, any NDA containing a Red flag under
+    Section 6.
+
+-   No employee may sign an NDA on behalf of the company outside their
+    delegated authority, regardless of how routine the document appears.
+
+9. Notes
+
+This is a sample/illustrative playbook intended to show the structure
+and type of rules a real NDA playbook might contain. It does not reflect
+any specific company's actual legal positions, risk tolerance, or
+approved fallback language, and should not be relied upon as legal
+advice.
