@@ -46,36 +46,30 @@ applicable law shall survive for so long as such information remains a trade sec
 valid legal process, provided it gives the Disclosing Party prompt written notice (where legally
 permitted) and reasonable cooperation should the Disclosing Party seek a protective order.
 
-7. Non-Solicitation
-During the Term and for twelve (12) months thereafter, neither Party shall directly solicit for hire any
-employee of the other Party who was directly staffed on activities related to the Purpose, provided that
-general solicitations not targeted at such individuals shall not be a breach of this Section.
-
-8. Remedies
+7. Remedies
 Each Party acknowledges that unauthorized use or disclosure of Confidential Information may cause
 irreparable harm for which monetary damages would be an inadequate remedy, and accordingly, either
 Party shall be entitled to seek injunctive relief in addition to any other remedies available at law or in
 equity, without prejudice to either Party's right to require a bond where permitted by applicable
 procedural rules.
 
-9. Assignment
+8. Assignment
 Neither Party may assign this Agreement without the prior written consent of the other Party, except
 that either Party may assign this Agreement without consent to a successor in connection with a
 merger, acquisition, or sale of substantially all of its assets, provided the assignee agrees in writing to
 be bound by this Agreement.
 
-10. Governing Law and Venue
+9. Governing Law and Venue
 This Agreement shall be governed by the laws of the State of Delaware, without regard to its
 conflict-of-laws principles, and the Parties consent to the exclusive jurisdiction of the state and federal
 courts located in Delaware for any dispute arising under this Agreement.
 
-11. General Provisions
+10. General Provisions
 Neither Party shall issue any press release or public statement referencing the other Party or the
 existence of this Agreement without the other Party's prior written consent. This Agreement constitutes
 the entire agreement between the Parties regarding its subject matter and may be amended only by a
 written instrument signed by both Parties. This Agreement may be executed in counterparts, each of
 which shall be deemed an original.
-
 
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date first
@@ -90,5 +84,6 @@ written above.
  Name: _____________________________                  Name: _____________________________
 
  Title: ______________________________                Title: ______________________________
-Date: ______________________________   Date: ______________________________
+
+ Date: ______________________________                 Date: ______________________________
 
